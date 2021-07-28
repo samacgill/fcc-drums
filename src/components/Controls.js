@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import { Slider, FormControlLabel, RadioGroup, Radio } from "@material-ui/core";
 import { VolumeUp, VolumeDown } from "@material-ui/icons";
 import { ColorSwitch } from "../utilities/brand";
